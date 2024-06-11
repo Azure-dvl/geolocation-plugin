@@ -19,4 +19,6 @@ public class GeolocationPlugin extends Plugin {
         ret.put("value", implementation.echo(value));
         call.resolve(ret);
     }
+
+
 }
