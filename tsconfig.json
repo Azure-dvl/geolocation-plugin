@@ -16,5 +16,5 @@
     "strict": true,
     "target": "es2017"
   },
-  "files": ["src/geolocation-plugin/index.ts"]
+  "files": ["src/index.ts"]
 }
